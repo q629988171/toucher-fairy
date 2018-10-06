@@ -1,0 +1,43 @@
+D:\VS2012\project\ShowBox\Common\bin\Release\Common.dll
+D:\VS2012\project\ShowBox\Common\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox\Common\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox\Common\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox\Common\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox\Common\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox\Common\obj\Release\Common.dll
+D:\VS2012\project\ShowBox\Common\obj\Release\Common.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\Common.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Common\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox - 副本 (3)\Common\obj\Release\Common.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Common\obj\Release\Common.pdb
+D:\VS2012\project\ShowBox2\Common\bin\Release\Common.dll.config
+D:\VS2012\project\ShowBox2\Common\bin\Release\Common.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.SqlServer.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.xml
+D:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.SqlServer.xml
+D:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox2\Common\obj\Release\Common.dll
+D:\VS2012\project\ShowBox2\Common\obj\Release\Common.pdb
+D:\VS2012\project\ShowBox2\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+H:\VS2012\project\ShowBox2\Common\bin\Release\Common.dll.config
+H:\VS2012\project\ShowBox2\Common\bin\Release\Common.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\Common.pdb
+H:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.SqlServer.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.EF6.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.Linq.dll
+H:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.xml
+H:\VS2012\project\ShowBox2\Common\bin\Release\EntityFramework.SqlServer.xml
+H:\VS2012\project\ShowBox2\Common\bin\Release\System.Data.SQLite.xml
+H:\VS2012\project\ShowBox2\Common\obj\Release\Common.dll
+H:\VS2012\project\ShowBox2\Common\obj\Release\Common.pdb

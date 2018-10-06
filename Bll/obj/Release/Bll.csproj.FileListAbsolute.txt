@@ -1,0 +1,62 @@
+D:\VS2012\project\ShowBox\Bll\bin\Release\Bll.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\Bll.pdb
+D:\VS2012\project\ShowBox\Bll\bin\Release\Common.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\Model.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox\Bll\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox\Bll\bin\Release\Model.pdb
+D:\VS2012\project\ShowBox\Bll\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+D:\VS2012\project\ShowBox\Bll\obj\Release\Bll.dll
+D:\VS2012\project\ShowBox\Bll\obj\Release\Bll.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Bll.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Bll.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Common.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Model.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\Model.pdb
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\obj\Release\Bll.dll
+D:\VS2012\project\ShowBox - 副本 (3)\Bll\obj\Release\Bll.pdb
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.dll.config
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.pdb
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Common.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.SqlServer.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Model.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Common.pdb
+D:\VS2012\project\ShowBox2\Bll\bin\Release\Model.pdb
+D:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.xml
+D:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.SqlServer.xml
+D:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+D:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.dll
+D:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.pdb
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.dll.config
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Bll.pdb
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Common.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.SqlServer.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Model.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.EF6.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.Linq.dll
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Common.pdb
+H:\VS2012\project\ShowBox2\Bll\bin\Release\Model.pdb
+H:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.xml
+H:\VS2012\project\ShowBox2\Bll\bin\Release\EntityFramework.SqlServer.xml
+H:\VS2012\project\ShowBox2\Bll\bin\Release\System.Data.SQLite.xml
+H:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+H:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.dll
+H:\VS2012\project\ShowBox2\Bll\obj\Release\Bll.pdb

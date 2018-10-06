@@ -1,0 +1,13 @@
+D:\VS2012\project\ShowBox2\Common\bin\Debug\Common.dll.config
+D:\VS2012\project\ShowBox2\Common\bin\Debug\Common.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\Common.pdb
+D:\VS2012\project\ShowBox2\Common\bin\Debug\EntityFramework.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\System.Data.SQLite.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VS2012\project\ShowBox2\Common\bin\Debug\EntityFramework.xml
+D:\VS2012\project\ShowBox2\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS2012\project\ShowBox2\Common\bin\Debug\System.Data.SQLite.xml
+D:\VS2012\project\ShowBox2\Common\obj\Debug\Common.dll
+D:\VS2012\project\ShowBox2\Common\obj\Debug\Common.pdb
